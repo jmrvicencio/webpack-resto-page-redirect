@@ -1,0 +1,1 @@
+# webpack-resto-page-redirect
